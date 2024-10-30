@@ -102,7 +102,7 @@ button {
 button:hover {
     background: linear-gradient(45deg, #ffad06, #ff105f);
     box-shadow: 0 15px 20px rgba(255, 105, 135, 0.4);
-    transform: translateY(-5px);
+    transform: translateY(-6px);
 }
 
 
